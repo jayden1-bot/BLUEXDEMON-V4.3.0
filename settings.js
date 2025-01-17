@@ -43,6 +43,7 @@ global.wm = "JAYDENS BOT"
 global.fake = botName
 global.setmenu = "image" 
 global.docType = "application/vnd.ms-excel"
+//setbot
 global.themeemoji = '🥕'
 global.fotoRandom = [
 "https://wallpapercave.com/wp/wp12801047.jpg",
